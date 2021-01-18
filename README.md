@@ -8,7 +8,7 @@ It also has auto slide, using _**useEffect() & setInterval()**_ it will show the
 
 To view in your local system, fork the project and install the dependencies using the below commands:
 
-```shell
+```properties
 >> npm install
 >> npm start
 ```
