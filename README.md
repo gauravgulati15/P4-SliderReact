@@ -16,5 +16,5 @@ To view in your local system, fork the project and install the dependencies usin
 <br>
 
 <p align="center">
-  <img src="readmeimg/img1.PNG" width="500" title="Tours">
+  <img src="readmeimg/img1.PNG" width="1000" title="Reviews">
 </p>
